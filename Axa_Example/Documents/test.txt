@@ -1,0 +1,106 @@
+Gastos Médicos Carátula de póliza
+Gastos Médicos Mayores Individual / Familiar
+
+
+Datos del contratante	
+Nombre :	COMDISTMINA SA DE CV
+Domicilio :	ANDALUCIA 104 , SAN RAFAEL,
+AZCAPOTZALCO, C.P. 02010	Ciudad:	AZCAPOTZALCO
+R.F.C. :	COM030430JP6	Teléfono:	53473338
+Datos del Asegurado Titular  Zona Tarificación:	Zona 1
+Nombre :	RAMIREZ	ARCE	CERRILLO	ALEJANDRA	DEL CONSUELO
+Domicilio :	GUSTAVO ECAMPA  35 , CIUDAD SATÉLITE,
+NAUCALPAN DE JUÁREZ, C.P. 53100	Ciudad:	NAUCALPAN DE JUÁREZ
+Número	Nombre
+Agente:	000048905	ALFONSO HERN ANDEZ CESAR
+Promotor	:	48143	ALATORRE AVE NDAÐO R ECUR SOS ESPECIAL
+
+
+ 	Póliza	
+14378B00
+Tipo de plan	Solicitud
+Flex Plus	000002439554
+Fecha de inicio de vigencia	30/10/2015
+Fecha de fin de vigencia	30/10/2016
+Fecha de emisión	26/11/2015
+Frecuencia de pago	Semestral
+Tipo de pago	Efectivo
+
+
+Coberturas/Servicios	Cobertura Básica
+Incluidos en Básica	Suma Asegurada	Deducible	Coaseguro
+Maternidad Protección Dental Tu Médico 24 Hrs	15,000
+N/A N/A	N/A N/A N/A	N/A
+Costo Preferencial Costo Preferencial
+
+
+Condiciones Contratadas
+Periodo de pago de siniestro	20 años
+Suma Asegurada	$   5,000,000 M.N.
+Deducible	$	10,000 M.N.
+Coaseguro	10 %
+Tope de coaseguro	$	35,000 M.N.
+Tabulador Médico	Caoba
+Gama Hospitalaria	Esmeralda
+Tipo de Red	Abierta
+
+
+Coberturas adicionales con costo
+Coberturas	Suma asegurada / Límite	Deducible	Coaseguro
+Emergencias en el Extranjero Deducible Cero por Accidente	Max $ 100,000 USD
+No Aplica	$100 USD
+No Aplica	No Aplica 10 %
+ Servicios  con costo	
+Servicio	Costo por Servicio
+
+
+Prima
+Descuento familiar	0
+	0
+Prima Neta	16,258.16
+Recargo por pago fraccionado	812.91
+Derecho de póliza	950.00
+I.V.A.	2,883.37
+Prima anual total	20,904.44
+
+
+México, D.F. A 6 De Julio De 2016 AXA SEGUROS, S.A. DE C.V.
+AV. FÉLIX CUEVAS 366, PISO 6,TLACOQUEMÉCATL, C.P. 03200 MÉXICO, D.F. AXA.MX
+Este Documento No Es Válido Como Recibo De Pago.
+Hoja 1 DE 2
+
+	
+Gastos Médicos Carátula de póliza
+Gastos Médicos Mayores Individual / Familiar
+
+
+	Póliza	
+	14378B00	
+
+
+Relación de Asegurados	
+Fecha de
+nacimiento	Antigüedad
+Reconocida	Antigüedad
+Axa	Antigüedad
+Axa Ind	Fecha de
+Alta	Prima Neta
+11/04/1979  04/10/2004  30/10/2015  30/10/2015 30/10/2015  10,982.14	
+02/09/2010 11/05/2011  30/10/2015  30/10/2015 30/10/2015	5,276.02	
+
+
+AXA Seguros, S.A. de C.V. a quien en lo sucesivo se le denominará la Compañía declara que usted de conformidad con las cláusulas de este contrato de seguro cubrirá, durante la vigencia aquí establecida, al (los) Asegurado(s) contra los riesgos antes indicados y hasta por el límite de responsabilidad citado.
+Al recibir mi póliza, me doy por recibido y enterado del contenido y alcance de las condiciones generales y particulares que  rigen este contrato de seguro.
+Como contratante hago constar que me he enterado de las condiciones generales de la póliza que se encuentran  disponibles en axa.mx  para consulta y expresamente declaro mi conformidad con ellas.
+Si el contenido de la póliza o sus modificaciones no concordaren con la oferta, el Asegurado podrá pedir la rectificación corres- pondiente dentro de los treinta días que sigan al día en que reciba la póliza. Transcurrido este plazo se considerarán aceptadas las estipulaciones de la póliza o de sus modificaciones.
+Advertencia: En este seguro de gastos médicos, a partir de que el asegurado alcance una edad avanzada, las primas tendrán incrementos anuales que pueden ser cada vez más elevados, lo cual se debea que la frecuencia y monto de reclamaciones de personas de esas edades se incrementa en forma importante. En ese sentido, se advierte que, a partir de esas edades, el pago de primas de este seguro podrá representarle un esfuerzo financiero importante.
+En cumplimiento a lo dispuesto en el artículo 202 de la Ley de Instituciones de Seguros y de Fianzas, la documentación contractual y la nota técnica que integran este producto de seguros quedaronregistradas ante la Comisión Nacional de Seguros y Fianzas, a partir del día 01 de Abril con el número CNSF-S0048-0204-2015.
+AXASeguros S.A. de C.V., con domicilio en Av. Félix Cuevas #366 Col. Tlacoquemécatl del Valle, Benito Juarez, C.P. 03200, MéxicoD.F., le informa que sus datos serán tratados únicamente para los fines del contrato del seguro. Usted podrá conocer ampliamente el Aviso de Privacidad en axa.mx.
+Las fechas de Antigüedad Reconocida, Antigüedad AXA y Antigüedad AXA Individual son útiles únicamente para reducir periodosde espera de acuerdo a las Condiciones Generales, en ningún caso será útil para obtener el pago de Gastos Médicos u hospitalarios derivados de Padecimientos Preexistentes.
+México, D.F. A 6 De Julio De 2016 AXA SEGUROS, S.A. DE C.V.
+AV. FÉLIX CUEVAS 366, PISO 6,TLACOQUEMÉCATL, C.P. 03200 MÉXICO, D.F. AXA.MX
+Este Documento No Es Válido Como Recibo De Pago.
+Hoja 2 DE 2	Apoderado
+
+
+
